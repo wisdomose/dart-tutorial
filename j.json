@@ -1,0 +1,10 @@
+{
+  "name": "wisdom ose",
+  "age": 1,
+  "subjectsTeaching": [
+    {
+      "subject": "mathematics",
+      "classes": ["sss3", "sss2", "sss1"]
+    }
+  ]
+}
